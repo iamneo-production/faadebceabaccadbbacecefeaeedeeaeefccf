@@ -9,7 +9,7 @@ public class DemoApplication {
 
 	public string Welcome()
 	{
-		return "Welcome"
+		return "Welcome";
 	}
 
 }
